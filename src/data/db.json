@@ -1,0 +1,59 @@
+{
+  "todos": [
+    {
+      "id": "0.5083858435499304",
+      "title": "Laravel",
+      "completed": false
+    },
+    {
+      "id": "0.5026805221252881",
+      "title": "React",
+      "completed": false
+    },
+    {
+      "id": "0.8573524774715968",
+      "title": "PHP",
+      "completed": false
+    },
+    {
+      "id": "0.9810833488530946",
+      "title": "HTML",
+      "completed": false
+    },
+    {
+      "id": "0.9973133649269339",
+      "title": "CSS",
+      "completed": false
+    },
+    {
+      "id": "0.23836245824891833",
+      "title": "JS",
+      "completed": false
+    },
+    {
+      "id": "0.6307982668242866",
+      "title": "Node",
+      "completed": false
+    },
+    {
+      "id": "0.0001058115013676808",
+      "title": "Next",
+      "completed": false
+    },
+    {
+      "id": "0.16174132009223507",
+      "title": "SQL",
+      "completed": false
+    },
+    {
+      "id": "0.8394918439625301",
+      "title": "Taiwind",
+      "completed": false
+    },
+    {
+      "id": "0.7067526929946519",
+      "title": "Bootstrap",
+      "completed": false
+    }
+  ]
+}
